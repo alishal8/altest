@@ -1,0 +1,45 @@
+body {
+    animation: mymove 2s infinite alternate linear;}
+
+@keyframes mymove 
+{ from {background-color:#BAEBFF}
+to {background-color:#BAFFBD}}
+
+h1 {
+    font-size:50px;
+    font-family:Doctor Glitch;
+}
+p {
+    font-size:20px;
+    font-family:couture;
+    width:400px;
+    height: 50px;
+    }
+
+    hr {
+        border: 2px dashed rgb(140, 227, 140);
+        margin: auto;
+        width: 90%;
+      }
+
+    iframe {
+        margin:5px 50px 25px 50px;
+    }
+    .marg {margin:85px 100px;}
+
+    h1,footer{
+        text-align: center;
+    }
+
+    .whole {
+        margin:auto;
+        width: 1000px;
+        height: 1200px;
+        border: 2px solid;
+        border-color:purple;
+        overflow: scroll;
+    }
+
+    .gg {
+        padding:50px;
+    }
